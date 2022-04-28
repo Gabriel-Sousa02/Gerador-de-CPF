@@ -33,15 +33,6 @@
   $cpf = $d1 . $d2 . $d3 . "." . $d4 . $d5 . $d6 . "." . $d7 . $d8 . $d9;
   $cpf = $cpf . "-" . $dv1 . $dv2;
 ?>
-
-
-
-
-
-
-
-
-
 <html>
   <head>
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
